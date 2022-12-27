@@ -1,2 +1,2 @@
 # release-reporter
-A Discord Bot to repost RSS flux to Discord channel 
+A Discord Bot to repost RSS Feeds to Discord channel 
