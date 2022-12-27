@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "releasereporter"
+version = "0.0.1"
+authors = [
+    {name = "Victor LE CORRE", email = "victor.le-corre@epita.fr"},
+]
+description="A Discord Bot to repost multiple RSS Feeds"
+readme="README.md"
+requires-python=">=3.8"
+dependencies = [
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest",
+]
