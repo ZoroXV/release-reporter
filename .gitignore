@@ -1,2 +1,5 @@
 .pytest_cache/
 releasereporter.egg-info/
+
+releasereporter/__pycache__/
+tests/unit/__pycache__/
