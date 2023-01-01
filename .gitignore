@@ -3,3 +3,5 @@ releasereporter.egg-info/
 
 releasereporter/__pycache__/
 tests/unit/__pycache__/
+
+.env
